@@ -16,7 +16,7 @@
 <img align="right" height="270px" alt="GIF" src="https://github.com/promie/promie/blob/main/developer.gif" />
 
 ```js
-const promie = {
+const promie: IPromie = {
   name: 'Promie Yutasane',
   title: 'Software Engineer',
   company: 'Nine',
