@@ -23,17 +23,12 @@ const promie = {
   location: 'North Sydney, Australia',
   technologies: {
     frontEnd: [
-      'React', 
-      'Redux',
-      'TypeScript',
-      'Styled Components'
+      'React', 'Redux', 'VueJS',
+      'TypeScript', 'Styled Components'
     ],
     backEnd: [
-      'Nodejs', 
-      'Express', 
-      'TypeScript', 
-      'Postgres', 
-      'AWS'
+      'Nodejs', 'Express', 'TypeScript', 
+      'Postgres', 'MongoDB', 'AWS'
     ]
   }
 }
@@ -47,8 +42,10 @@ const promie = {
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">  
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
 </div>
 
