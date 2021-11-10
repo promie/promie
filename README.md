@@ -16,14 +16,23 @@
 <img align="right" height="270px" alt="GIF" src="https://github.com/promie/promie/blob/main/developer.gif" />
 
 ### Profile
-- I’m currently working as a Software Engineer at Nine
-- I’m currently studying Masters of Computer Science part-time at UNSW
-- I’m looking to collaborate with other Developers
-- 2021 Goals: Contribute to Open Source projects
-- How to reach me: [Let's get in touch!][linkedin]
-- I try to: Go beyond and push the bounds
-
-<br>
+```js
+const promie = {
+  name: 'Promie Yutasane',
+  title: 'Software Engineer',
+  company: 'Nine',
+  location: 'North Sydney, Australia',
+  education: {
+    degree: 'Masters of Information Technology',
+    university: 'University of New South Wales',
+    status: 'Final year'
+  },
+  technologies: {
+    frontEnd: ['React', 'TypeScript'],
+    backEnd: ['Nodejs', 'Express', 'TypeScript', 'Postgres', 'AWS']
+  }
+}
+```
 
 ### Languages and Tools:
 <div>
