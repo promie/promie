@@ -15,21 +15,25 @@
 
 <img align="right" height="270px" alt="GIF" src="https://github.com/promie/promie/blob/main/developer.gif" />
 
-### Profile
 ```js
 const promie = {
   name: 'Promie Yutasane',
   title: 'Software Engineer',
   company: 'Nine',
   location: 'North Sydney, Australia',
-  education: {
-    degree: 'Masters of Information Technology',
-    university: 'University of New South Wales',
-    status: 'Final year'
-  },
   technologies: {
-    frontEnd: ['React', 'TypeScript'],
-    backEnd: ['Nodejs', 'Express', 'TypeScript', 'Postgres', 'AWS']
+    frontEnd: [
+      'React', 
+      'TypeScript',
+      'Styled Components'
+    ],
+    backEnd: [
+      'Nodejs', 
+      'Express', 
+      'TypeScript', 
+      'Postgres', 
+      'AWS'
+    ]
   }
 }
 ```
