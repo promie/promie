@@ -15,14 +15,15 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Engineer at Nine
-- 🔭 I’m currently working a backend server API
-- 🌱 I’m currently learning authentication and single-sign-on (SSO).
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people
+### Profile
+- I’m currently working as a Software Engineer at Nine
+- I’m currently studying Masters of Computer Science part-time at UNSW
+- I’m looking to collaborate with other Developers
+- 2021 Goals: Contribute to Open Source projects
+- Ask me about anything, I am happy to help :smile:
+- How to reach me: [Let's get in touch!][linkedin]
+- I try to: Go beyond and push the bounds
 
 <br>
+
+### Languages and Tools:
