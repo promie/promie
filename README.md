@@ -23,7 +23,7 @@ const promie: IPromie = {
   location: 'North Sydney, Australia',
   technologies: {
     frontEnd: [
-      'React', 'Redux', 'VueJS',
+      'React', 'React Native','Redux', 'VueJS',
       'TypeScript', 'Styled Components'
     ],
     backEnd: [
