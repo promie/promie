@@ -13,6 +13,8 @@
 
 <br>
 
+[//]: # (<img align="right" height="270px" alt="GIF" src="https://github.com/promie/promie/blob/main/developer.gif" />)
+
 ```js
 const promie: IPromie = {
   name: 'Promie Yutasane',
@@ -21,15 +23,14 @@ const promie: IPromie = {
   location: 'North Sydney, Australia',
   technologies: {
     languages: [
-      'JavaScript (ES5, ES6)', 'TypeScript', 'Python', 'SQL', 
-      'HTML', 'CSS', 'Sass'
+      'JavaScript (ES5, ES6)', 'TypeScript', 'Python', 'SQL', 'HTML', 'CSS', 'Sass'
     ],
     databases: [
       'Postgres', 'MongoDB', 'DynamoDB'  
     ],  
     frameWorks: [
-      'React.js', 'Express.js', 'Next.js', 'Redux Toolkit', 
-      'Styled Components', 'Tailwind CSS'
+      'React.js', 'Express.js', 'Next.js', 'Redux Toolkit', 'Styled Components', 
+      'Tailwind CSS'
     ],
     infrastructures: [
       'AWS', 'Terraform', 'Circle CI', 'Docker'
