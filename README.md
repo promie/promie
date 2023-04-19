@@ -22,14 +22,20 @@ const promie: IPromie = {
   company: 'Nine',
   location: 'North Sydney, Australia',
   technologies: {
-    frontEnd: [
-      'React', 'Redux Toolkit', 'TypeScript',
-      'Tailwind CSS','Styled Components'
+    languages: [
+      'JavaScript (ES5, ES6)', 'TypeScript', 'Python', 'SQL', 
+      'HTML', 'CSS', 'Sass'
     ],
-    backEnd: [
-      'Nodejs', 'Express', 'TypeScript', 
-      'Postgres', 'MongoDB', 'AWS'
-    ]
+    databases: [
+      'Postgres', 'MongoDB', 'DynamoDB'  
+    ],  
+    frameWorks: [
+      'React.js', 'Express.js', 'Next.js', 'Redux Toolkit', 
+      'Styled Components', 'Tailwind CSS'
+    ],
+    infrastructures: [
+      'AWS', 'Terraform', 'Circle CI', 'Docker'
+    ],  
   }
 }
 ```
