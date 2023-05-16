@@ -29,8 +29,8 @@ const promie: IPromie = {
       'Postgres', 'MongoDB', 'DynamoDB'  
     ],  
     frameWorks: [
-      'React.js', 'Express.js', 'Next.js', 'Redux Toolkit', 'Styled Components', 
-      'Tailwind CSS'
+      'React.js', 'Express.js', 'Next.js', 'React Native', 'Redux Toolkit', 
+      'Styled Components', 'Tailwind CSS'
     ],
     infrastructures: [
       'AWS', 'Terraform', 'Circle CI', 'Docker'
