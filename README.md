@@ -23,14 +23,14 @@ const promie: IPromie = {
   location: 'North Sydney, Australia',
   technologies: {
     languages: [
-      'JavaScript (ES5, ES6)', 'TypeScript', 'Python', 'SQL', 'HTML', 'CSS', 'Sass'
+      'JavaScript (ES5, ES6)', 'TypeScript', 'Python', 'Swift', 'SQL', 'HTML', 'CSS', 'Sass'
     ],
     databases: [
       'Postgres', 'MongoDB', 'DynamoDB'  
     ],  
     frameWorks: [
       'React.js', 'Express.js', 'Next.js', 'React Native', 'Redux Toolkit', 
-      'Styled Components', 'Tailwind CSS'
+      'Styled Components', 'Tailwind CSS', 'SwiftUI'
     ],
     infrastructures: [
       'AWS', 'Terraform', 'Circle CI', 'Docker'
@@ -47,6 +47,7 @@ const promie: IPromie = {
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
