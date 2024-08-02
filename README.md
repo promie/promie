@@ -18,22 +18,23 @@
 ```js
 const promie: IPromie = {
   name: 'Promie Yutasane',
-  title: 'Software Engineer',
-  company: 'Nine',
-  location: 'North Sydney, Australia',
+  title: 'Full-Stack Software Engineer',
+  company: 'OFX',
+  location: 'Sydney, Australia',
   technologies: {
     languages: [
-      'JavaScript (ES5, ES6)', 'TypeScript', 'Python', 'SQL', 'HTML', 'CSS', 'Sass'
+      'JavaScript (ES5, ES6)', 'TypeScript', 'Python', 'SQL'
     ],
     databases: [
       'Postgres', 'MongoDB', 'DynamoDB'  
     ],  
     frameWorks: [
-      'React.js', 'Express.js', 'Next.js', 'React Native', 'Redux Toolkit', 
+      'React.js', 'Next.js', 'Express.js' , 'Nest.js', 'Redux Toolkit', 
       'Styled Components', 'Tailwind CSS'
     ],
     infrastructures: [
-      'AWS', 'Terraform', 'Github Actions', 'Circle CI', 'Docker'
+      'AWS CDK', 'Terraform', 'Github Actions', 'Team City', 
+      'AWS Lambda', 'API Gateway'
     ],  
   }
 }
