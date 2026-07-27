@@ -18,7 +18,7 @@
 ```js
 const promie: IPromie = {
   name: 'Promie Yutasane',
-  title: 'Software Engineer',
+  title: 'Senior Software Engineer',
   company: 'OFX',
   location: 'Sydney, Australia',
   technologies: {
